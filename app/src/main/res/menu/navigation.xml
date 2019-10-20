@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_kamera"
+        android:title="Kamera" />
+    <item android:id="@+id/action_pesan"
+        android:title="Pesan"/>
+</menu>
